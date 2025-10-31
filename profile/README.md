@@ -17,7 +17,7 @@ Creation of Destruction – a freelance team founded on November 9, 2024, while 
         <sub><b>Fullstack Developer</b></sub>
         <br />
         <sub><a href="https://github.com/Kubaleek">GitHub</a> • </sub>
-        <sub><a href="https://www.linkedin.com/in/kuba-kr%C3%B3l-15a226379/">Linkedin</a> •</sub> 
+        <sub><a href="">Linkedin</a> •</sub> 
         <sub><a href="https://www.instagram.com/kuba.leek/">Instagram</a></sub>
       </td>
       <td align="center" valign="top" width="33.33%">
