@@ -14,7 +14,7 @@ Creation of Destruction – a freelance team founded on November 9, 2024, while 
         <br />
         <sub><b>Kuba Król</b></sub>
         <br />
-        <sub><b>Fullstack Developer / Team Leader</b></sub>
+        <sub><b>Fullstack Developer</b></sub>
         <br />
         <sub><a href="https://github.com/Kubaleek">GitHub</a> • </sub>
         <sub><a href="https://www.linkedin.com/in/kuba-kr%C3%B3l-15a226379/">Linkedin</a> •</sub> 
@@ -27,7 +27,7 @@ Creation of Destruction – a freelance team founded on November 9, 2024, while 
         <br />
         <sub><b>Daniel Siwiec</b></sub>
         <br />
-        <sub><b>Backend Developer / Team Leader</b></sub>
+        <sub><b>Backend Developer</b></sub>
         <br />
         <sub><a href="https://github.com/danyPL">GitHub</a> •</sub> 
         <sub><a href="">Linkedin</a> • </sub>
